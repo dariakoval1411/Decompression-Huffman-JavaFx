@@ -218,7 +218,7 @@ Jeśli bitPosition wynosi **7**, oznacza to, że bieżący bajt został w pełni
 
 # **Interfejs Progarmu**
 
-![](/Users/dasha/Desktop/1.png)
+![Image alt](https://github.com/Decompression-Huffman-JavaFx/blob/main/1.png)
 
 **Display Output Image** - pokazuje zdekmpresowany plik
 

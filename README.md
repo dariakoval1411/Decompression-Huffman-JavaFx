@@ -232,9 +232,9 @@ Jeśli bitPosition wynosi **7**, oznacza to, że bieżący bajt został w pełni
 
 # **Stosowanie**
 
-![](/Users/dasha/Desktop/2.png)
+![Image alt](https://github.com/dariakoval1411/Decompression-Huffman-JavaFx/blob/main/2.png)
+
+![Image alt](https://github.com/dariakoval1411/Decompression-Huffman-JavaFx/blob/main/3.png)
 
 
-![](/Users/dasha/Desktop/3.png)
-
-![](/Users/dasha/Desktop/4.png)
+![Image alt](https://github.com/dariakoval1411/Decompression-Huffman-JavaFx/blob/main/4.png)
